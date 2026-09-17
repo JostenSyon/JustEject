@@ -1,0 +1,9 @@
+JustEject — Binary License
+Copyright © 2026 J. Stefano Navarria. All rights reserved.
+
+The JustEject application binary may be downloaded, installed and shared
+freely, provided it is not modified, reverse-engineered for redistribution,
+or sold.
+
+The source code is not included and remains the exclusive property
+of the author.
