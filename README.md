@@ -8,7 +8,7 @@ The dead-simple utility that was missing: eject removable volumes **without leav
 
 I was tired of finding Mac files (`._*`, `.DS_Store`, `.Trashes` and friends) on emulators, Nintendo Switch, 3D printers and any USB stick not used on a Mac. I looked for a tool doing just that, but they were almost all paid or bundled with other stuff. I wanted one thing only: **eject volumes without leaving junk**. So I built this app.
 
-Requires macOS 13 or later.
+Requires macOS 13 or later. Built with the latest SDK and optimized for macOS 27.
 
 ## Features
 
@@ -53,7 +53,7 @@ L'utility banale che mancava: espelli i volumi rimovibili **senza lasciare spazz
 
 Ero stufo di ritrovare file del Mac (`._*`, `.DS_Store`, `.Trashes` e compagnia) su emulatori, Nintendo Switch, stampanti 3D e qualsiasi USB non usata su Mac. Ho cercato un tool che facesse solo questo, ma erano quasi tutti a pagamento o infilati in bundle con altra roba. Volevo una cosa sola: **espellere i volumi senza lasciare spazzatura**. Così mi sono fatto questa app.
 
-Richiede macOS 13 o successivo.
+Richiede macOS 13 o successivo. Realizzata con gli strumenti più recenti e ottimizzata per macOS 27.
 
 ## Cosa fa
 
